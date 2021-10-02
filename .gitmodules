@@ -1,0 +1,15 @@
+[submodule "tv-series-tracking-web-app"]
+	path = tv-series-tracking-web-app
+	url = https://github.com/dianapaula19/tv-series-tracking-web-app
+[submodule "cryptography-and-security-projects"]
+	path = cryptography-and-security-projects
+	url = https://github.com/dianapaula19/cryptography-and-security-projects
+[submodule "ami-ai-project"]
+	path = ami-ai-project
+	url = https://github.com/dianapaula19/ami-ai-project
+[submodule "rain-prediction-australia"]
+	path = rain-prediction-australia
+	url = https://github.com/dianapaula19/rain-prediction-australia
+[submodule "wheres-wally-game"]
+	path = wheres-wally-game
+	url = https://github.com/dianapaula19/wheres-wally-game
